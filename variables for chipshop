@@ -1,0 +1,10 @@
+var chipShopMenu = ["burger", "chips"];
+var chipShopSauce = ["ketchup", "Mayonnaise", "chilli"];
+var chipShopTakeway = true;
+var chipShopPets = true;
+var monthlyCustomers = 1000 + "monthly";
+var dailyCustomers = 100 + "daily customers";
+
+// pop push for options
+// change takeway to false
+// monthly and daily customers an input
